@@ -12,3 +12,7 @@ color:
     - '#7FB2F0'
     - '#ADD5F7'
 name: Millermore
+author:
+  name: Trenton Miller
+  email: trent@millermore.com
+  url: www.millermore.com
